@@ -1,4 +1,6 @@
 # java-mockup-pos
+Developed during the Summer of 2019.
+
 A mockup POS program written in Java.
 
 # Technical Challenges/What I Learned
